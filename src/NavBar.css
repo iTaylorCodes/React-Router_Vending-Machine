@@ -1,0 +1,9 @@
+.NavBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.NavBar a.active {
+  font-weight: 700;
+}
